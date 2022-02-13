@@ -46,7 +46,7 @@
     "@typescript-eslint/eslint-plugin": "^2.17.0",
     "@typescript-eslint/parser": "^2.17.0",
     "acorn": "^7.1.1",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "copy-pkg-json-webpack-plugin": "0.0.38",
     "cross-env": "^7.0.2",
     "electron": "^8.1.1",
